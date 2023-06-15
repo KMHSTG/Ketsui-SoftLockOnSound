@@ -1,7 +1,6 @@
 # **Ketsui - Soft Lock-On Sound**
 
-Patch that lowers the volume of the beeping lock-on sound effect, in the Ketsui arcade rom. 
-It does nothing else, and the patched rom retains full gameplay/demo compatibility with an unmodified one.
+This patch lowers the volume of the beeping lock-on sound effect in the Ketsui MAME rom. It has no other effect.
 
 ## Patching Instructions:
 
